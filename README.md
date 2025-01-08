@@ -15,8 +15,8 @@ Hello All. Here is our neutrona wand version for your proton pack. Compatible wi
 Any question ? Head over to [EctoGears official facebook group](https://www.facebook.com/groups/ectogearsbuilders/)
 
 ## Official Links
-* [Store](https://ectogears.company.site/)
-* [Store](https://ectogears.etsy.com/)
+* [Official Store](https://ectogears.com)
+* [Etsy](https://ectogears.etsy.com/)
 * [Instagram](https://instagram.com/ectogears)
 * [Facebook](https://facebook.com/ectogears)
 * [Youtube](https://youtube.com/ectogears)
